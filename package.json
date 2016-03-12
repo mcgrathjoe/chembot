@@ -1,0 +1,10 @@
+{
+  "name": "chembot",
+  "version": "0.0.1",
+  "description": "Slack bot for getting information on Chemists.",
+  "author": "Joe McGrath",
+  "private": true,
+  "dependencies": {
+    "botkit": "0.0.8"
+  }
+}
