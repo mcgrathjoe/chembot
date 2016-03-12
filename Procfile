@@ -1,1 +1,1 @@
-node chembot.js
+node node chembot.js
