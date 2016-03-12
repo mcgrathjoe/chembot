@@ -10,11 +10,11 @@ Run npm install to get dependencies
 
 # Running Chembot
 
-Add a new Bot in Slack, and copy the Bot token, at http://<MY SLACK DOMAIN>.slack.com/services/new/bot
+Add a new Bot in Slack, and copy the Bot token, at http://YOUR-SLACK-DOMAIN.slack.com/services/new/bot
 
 Run chembot from the command line:
 
-token=<MY BOT TOKEN> node chembot.js
+token=YOUR-TOKEN node chembot.js
 
 
 # Talking to Chembot
